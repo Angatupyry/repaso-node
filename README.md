@@ -162,7 +162,7 @@ CREATE TABLE tarea(
 ## Conexión con la base de datos
 
 La librearía utilizar será pg y se utilizarán código sql dentro del código
-1 Instalar pg
+1 Instalar pg <br>
 
 ```
 npm install pg
